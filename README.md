@@ -8,3 +8,5 @@ the linux version is the first one to have update because who tf code on windows
 it will not have the update at the same time as linux but I will try "same day delivery"
 # Mac version
 download Xcode on your appstore
+# what else
+i use pyqt5 and not pyqt6 but i will try a day
