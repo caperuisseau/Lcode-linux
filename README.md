@@ -1,4 +1,4 @@
-# Ycode-linux
+# Lcode-linux
 idk why i did this but i tried to do an Xcode from mac to linux (and windows) in python I used a little bit of chatgpt to help but he just help me to code and nothing else.
 # How to use it
 you can download the .py and modify it if you want or download the folder linux or windows
@@ -10,3 +10,5 @@ it will not have the update at the same time as linux but I will try "same day d
 download Xcode on your appstore
 # what else
 i use pyqt5 and not pyqt6 but i will try a day
+# why renaming from Ycode to Lcode
+Ycode was already used several times and Lcode (l for linux) wasn't
