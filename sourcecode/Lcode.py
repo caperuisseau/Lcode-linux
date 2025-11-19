@@ -184,7 +184,7 @@ class AnimatedButton(QPushButton):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('✨ Xcode 0.3 - Modern Edition')
+        self.setWindowTitle('Lcode 0.3')
         self.resize(1400, 900)
         self.setupUI()
 
